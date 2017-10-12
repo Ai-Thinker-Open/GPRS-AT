@@ -1,6 +1,56 @@
 Ai-Thinker GPRS AT module change list
 =====
 
+> A : Alpha
+> B : Beta
+> RC: Release Candidate
+> R : Release 
+
+
+------------------------------------------------
+## V1.6R:
+
+#### Add feature:
+
+* AT+LOCATION=2
+get location(latitude and longitude) through gps
+
+
+#### Remove feature:
+
+None
+
+#### Update feature:
+
+None
+
+#### Bug fix:
+
+
+-------------------------------------------
+
+------------------------------------------------
+## V1.5RC:
+
+#### Add feature:
+
+None
+
+#### Remove feature:
+
+None
+
+#### Update feature:
+
+None
+
+#### Bug fix:
+
+* fix bug no voice and can not speak at all when use call!
+
+-------------------------------------------
+
+
 ------------------------------------------------
 ## V1.4:
 
@@ -9,11 +59,11 @@ Ai-Thinker GPRS AT module change list
 * AT+CCLK:
 command `AT+CCLK="AUTO"` can enable auto adjust rtc time on gprs attached, and it will be remembered, cacel auto update time by command`AT+CCLK="YY/MM/DD,hh:mm:ss+zz"`.
 
-* AT+LOCATION
-get location(latitude and longitude) through gps or gprs(LBS)
+* AT+LOCATION=1
+get location(latitude and longitude) through gprs(LBS)
 
-* AT+SPEEDTEST
-just for test!!!
+~~* AT+SPEEDTEST~~
+~~just for test!!!~~
 
 #### Remove feature:
 None
@@ -22,6 +72,9 @@ None
 
 * AT+CCLK:
 fixed ack length as as 20. now: "YY/MM/DD,hh:mm:ss+zz"
+
+* Power on info optimize
+remove SIM card info on start up, if find no sim card, print NO Simcard
 
 #### Bug fix:
 

@@ -210,8 +210,11 @@ Release GPS UART from A9's CPU, then you can connect GPS UART directly to commun
 |-|-|
 |on/off|`1`:release GPS's connection from CPU, `0`:connect GPS to A9's CPU|
 
+
+----------------------------
+## !!!!!!! 以下命令仅供安信可内部使用!!!!!!!!!!1
 ## AT+SPEEDTEST
-
+just for ai-thinker internal use
 * **(1)AT+SPEEDTEST=< data size >,< times >**
-
+-----------------------------
 
