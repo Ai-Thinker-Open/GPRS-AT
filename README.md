@@ -17,11 +17,14 @@ Ai-Thinker GPRS AT module related ( Doc and firmware etc.)
 
 * [Change History](A9_A9G/doc/Change-History.md)
 
-* [功能说明（Chinese）](A9_A9G/doc/功能说明.md)
 
 
 #### 3. Firmware
 
+Version information will be print after power on, or query version info by AT command `ATI`
+
+* [Download from official website](http://wiki.ai-thinker.com/gprs/firmware)
+* [Download from github](https://github.com/Ai-Thinker-Open/GPRS-AT/releases)
 
 #### 4. Development On Chip
 
@@ -44,6 +47,8 @@ C SDK: refer to [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 
 
 #### 3. Firmware
+
+开机会打印版本信息，或者使用`ATI`查询版本信息
 
 * [官网下载最新的](http://wiki.ai-thinker.com/gprs/firmware)
 * [github下载最新固件](https://github.com/Ai-Thinker-Open/GPRS-AT/releases)
