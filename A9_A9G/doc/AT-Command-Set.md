@@ -188,7 +188,7 @@ Get positioin through LBS server(Ai-Thinker)
 |---|---|
 |LBS or GPS |value `1`:get location info through LBS, `2`:get location by GPS(GPS should be open first by `AT+GPS=1`) |
 return: 
-> `<latitude>,<longitude>`
+> `<latitude>,<longitude>` (uint:`°`)
 > OK
 
  
@@ -210,11 +210,4 @@ Release GPS UART from A9's CPU, then you can connect GPS UART directly to commun
 |-|-|
 |on/off|`1`:release GPS's connection from CPU, `0`:connect GPS to A9's CPU|
 
-
-----------------------------
-## !!!!!!! 以下命令仅供安信可内部使用!!!!!!!!!!1
-## AT+SPEEDTEST
-just for ai-thinker internal use
-* **(1)AT+SPEEDTEST=< data size >,< times >**
------------------------------
 

@@ -1,4 +1,4 @@
-Ai-Thinker GPRS AT module change list
+Ai-Thinker GPRS AT module change history
 =====
 
 > A : Alpha
@@ -7,13 +7,35 @@ Ai-Thinker GPRS AT module change list
 > R : Release 
 
 
-------------------------------------------------
-## V1.6R:
+---------------------------------------------
+
+## V1.5_1014RC:
 
 #### Add feature:
 
-* AT+LOCATION=2
-get location(latitude and longitude) through gps
+None
+
+
+#### Remove feature:
+
+None
+
+#### Update feature:
+
+For product line: Update for calibration tool, now calibration is more faster
+
+#### Bug fix:
+
+* Fix UDP transparent transmission error 
+
+------------------------------------------------
+
+------------------------------------------------
+## V1.5_1014RC:
+
+#### Add feature:
+
+None
 
 
 #### Remove feature:
@@ -26,8 +48,10 @@ None
 
 #### Bug fix:
 
+Power Off key optimize for no dev board module
 
--------------------------------------------
+
+------------------------------------------------
 
 ------------------------------------------------
 ## V1.5RC:
