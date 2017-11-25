@@ -9,7 +9,7 @@ Ai-Thinker GPRS AT module change history
 
 ---------------------------------------------
 
-## V1.5_1014RC:
+## V1.6RC:
 
 #### Add feature:
 
