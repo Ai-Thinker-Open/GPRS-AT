@@ -30,6 +30,9 @@ Version information will be print after power on, or query version info by AT co
 
 C SDK: refer to [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 
+
+#### 5. [pay attention and frequently asked questions](./doc/pay-attention.md)
+
 --------------------------------------------
 --------------------------------------------
 
@@ -59,3 +62,5 @@ C SDK: refer to [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 因此，提供了方便开发的SDK
 
 * 提供C SDK: 参考 [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
+
+#### 5. [注意事项及常见问题](./doc/pay-attention.md)
