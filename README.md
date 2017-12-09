@@ -31,7 +31,7 @@ Version information will be print after power on, or query version info by AT co
 C SDK: refer to [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 
 
-#### 5. [pay attention and frequently asked questions](./doc/pay-attention.md)
+#### 5. [pay attention and frequently asked questions](A9_A9G/doc/pay-attention.md)
 
 --------------------------------------------
 --------------------------------------------
@@ -46,7 +46,7 @@ C SDK: refer to [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 
 * [更新历史](A9_A9G/doc/Change-History.md)
 
-* [功能说明（Chinese）](A9_A9G/doc/功能说明.md)
+* [功能说明](A9_A9G/doc/功能说明.md)
 
 
 #### 3. Firmware
@@ -63,4 +63,4 @@ C SDK: refer to [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 
 * 提供C SDK: 参考 [GPRS_C_SDK](https://github.com/Ai-Thinker-Open/GPRS_C_SDK)
 
-#### 5. [注意事项及常见问题](./doc/pay-attention.md)
+#### 5. [注意事项及常见问题](A9_A9G/doc/pay-attention.md)
